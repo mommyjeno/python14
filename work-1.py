@@ -1,0 +1,12 @@
+print('hello 6/14')
+print('Chanikan')
+print('Kitprasert')
+print('Chonrasadornumrung School')
+print('17 years old')
+print('female')
+print('164cm')
+print('nctzen')
+print('JENO meow')
+print('sleep lately')
+print('to be dentist')
+#ชนิกานต์ 36
